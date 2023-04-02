@@ -1,5 +1,7 @@
 # Bio_Medical_EMG_Assignment
 
+# Excersice 1
+
 Goal of the assignment: learning the basis of EMG pre-processing
 
 Description of the assignment:
@@ -17,6 +19,8 @@ The Matlab code (with comments) that generates the following figures (better if 
 ¬Goal of the assignment: learning the basis of  EMG control (super simple example of EMG-based control):
 -	Using the .wrl file with the VRsource input block to display 8 targets and a cursor
 -	Pre-processing the EMG data (noisy signals) – attention to the sample rate!
+
+# Excersice 2
 
 Description of the assignment:
 1-Move a cursor on the screen controlled by the reading of the four muscles in the mat file 2 (raw_emg_es2.mat Data are normalized for the maximal voluntary contraction - average value over 5 max contractions).  You should reach the targets in the 4 cardinal directions, i.e. when the muscle contraction is greater than a defined threshold the EMG signal is mapped into the position of the cursor in the four cardinal directions (tip: use one muscle to go up, another down etc.). The target is reached when the muscle contraction is above a selected threshold 
