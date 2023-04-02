@@ -10,8 +10,6 @@ Description of the assignment:
 
 Question B- When does the muscle activation starts with respect to the movement (see motion signal)?
 
-What should you send us (upload on teams)?
-
 The Matlab code (with comments) that generates the following figures (better if 1 it is ONLY 1 figure with 3 panels):
 -	EMG raw signal with on top the filtered signal plotted with a different color.
 -	EMG rectified with on top the Envelope plotted with a different color.
